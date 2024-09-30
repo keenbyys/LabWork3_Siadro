@@ -1,0 +1,7 @@
+C:\Users\sjdro\source\repos\LabWork3_Siadro\LW3_Siadro\LW3_Siadro\bin\Debug\LW3_Siadro.exe.config
+C:\Users\sjdro\source\repos\LabWork3_Siadro\LW3_Siadro\LW3_Siadro\bin\Debug\LW3_Siadro.exe
+C:\Users\sjdro\source\repos\LabWork3_Siadro\LW3_Siadro\LW3_Siadro\bin\Debug\LW3_Siadro.pdb
+C:\Users\sjdro\source\repos\LabWork3_Siadro\LW3_Siadro\LW3_Siadro\obj\Debug\LW3_Siadro.csproj.AssemblyReference.cache
+C:\Users\sjdro\source\repos\LabWork3_Siadro\LW3_Siadro\LW3_Siadro\obj\Debug\LW3_Siadro.csproj.CoreCompileInputs.cache
+C:\Users\sjdro\source\repos\LabWork3_Siadro\LW3_Siadro\LW3_Siadro\obj\Debug\LW3_Siadro.exe
+C:\Users\sjdro\source\repos\LabWork3_Siadro\LW3_Siadro\LW3_Siadro\obj\Debug\LW3_Siadro.pdb
