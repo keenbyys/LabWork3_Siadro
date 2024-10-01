@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Serialization;
 
 namespace LW3_Siadro
 {
@@ -53,11 +52,9 @@ namespace LW3_Siadro
 
         public void Promote()
         {
-            int increaseSalary;
             int increasePercentage = 5;
 
-            increaseSalary = salary + (salary * increasePercentage) / 100;
-            salary = increaseSalary;
+            salary += salary * increasePercentage / 100;
 
             position = "Developer";
         }
@@ -130,7 +127,7 @@ namespace LW3_Siadro
                 switch (name) 
                 {
                     case "":
-                        Console.WriteLine("\n Empty the data! :^)");
+                        Console.WriteLine("\n Empty data! :^)");
                         break;
 
                     default:
@@ -165,12 +162,12 @@ namespace LW3_Siadro
 
                                 Developer developer = new Developer(name, position, salary, programmingLanguage);
 
-                                developer.Work();
                                 developer.WriteCode();
+                                developer.Work();
                                 break;
 
                             case "":
-                                Console.WriteLine("\n Empty the data! :^)");
+                                Console.WriteLine("\n Empty data! :^)");
                                 break;
 
                             default:
